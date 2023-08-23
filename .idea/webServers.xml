@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b402cd5f-fa3b-4cac-bc11-d7261d2ab9e3" name="WildApp" url="http://wildapp.de">
+        <fileTransfer rootFolder="/var/www/vhosts/wildapp.de/WildApp" accessType="SFTP" host="217.160.103.95" port="22" sshConfigId="e104efd4-457a-46d1-b163-47a01c76fee7" sshConfig="adsilmar@217.160.103.95:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
